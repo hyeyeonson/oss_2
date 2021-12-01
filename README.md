@@ -84,9 +84,13 @@
 - Solution
   - :%s/y1/abs(y1) <CR> /k<CR>rg <Up>rr <Up>rb :s/1/2/g<CR><Down> :s/1/3/g<CR><Down> :s/1/4/g<CR>ZZ
     - :%s/y1/abs(y1) : y1을 abs(y1)으로 변경
-    - /k<CR>rg <Up>rr <Up>rb : r을 각각 g r b로 변경
+    - /k<CR>rg <Up>rr <Up>rb : k를 각각 g r b로 변경
     - :s/1/2/g<CR><Down> :s/1/3/g<CR><Down> :s/1/4/g<CR>ZZ : 1을 각각 2, 3, 4로 변경
   
  - 풀이 영상
   
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76990397/144253097-a323cc34-4c6f-4ecf-be01-f57b410bf49d.gif)
+  
+ ---
+  
+ 
