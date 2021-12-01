@@ -92,5 +92,18 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76990397/144253097-a323cc34-4c6f-4ecf-be01-f57b410bf49d.gif)
   
  ---
+ ### *Q5*
+- Problme : Python dataclasses
+  - vimgolf put 6013804df3308e0009368f1c
+  - 최고점 : 19
+- Solution
+  - 5G yw 10G f" p a,name,age,score <Esc> ZZ
+    - 5G : 5행으로 이동
+    - yw : 단어 복사
+    - 10G : 10행으로 이동
+    - f" : 해당 행에 "있는지 검사 후 이동
+    - pa : 단어 삽입
   
+ - 풀이 영상
  
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/76990397/144254902-1c4ed2e5-8f11-4b21-a984-0effd7613657.gif)
