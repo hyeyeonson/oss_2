@@ -40,8 +40,23 @@
     - " : " 입력
     - <ESC> : 종료
     - ZZ : 변경사항 보관 후 vi 종료
+- 풀이 영상
   
-  https://user-images.githubusercontent.com/76990397/144243987-ba54d416-2c3f-48db-a63d-654bcefe074c.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76990397/144246623-cc92f83c-cf47-42dc-9769-1657991420a8.gif)
 
+---
+  
+### *Q2*
+- simple replacements
+  - vimgolf put 603ba26a01b4d00009c10a49
+  - 최고점 : 19
+- Solution
+  - <F12> :%s/sublime\|emacs/vim/g <CR>ZZ
+    - <f12> : 녹화 시작
+    - :%s/sublime\|emacs/vim/g : sublime과 emacs를 vim으로 바꾼다
+    - ZZ : 변경사항 보관 후 vi 종료
+- 풀이 영상
+  
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/76990397/144246731-7c53f699-6f03-444b-941b-99aa80ac4741.gif)
 
   
