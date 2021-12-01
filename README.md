@@ -84,7 +84,7 @@
 - Problme : Plotting some variables in python
   - vimgolf put 9v0060da5177000000000209
   - 최고점 : 34
-  - 내 최고점 : 
+  - 내 최고점 : 57
 - Solution
   - :%s/y1/abs(y1) <CR> /k<CR>rg <Up>rr <Up>rb :s/1/2/g<CR><Down> :s/1/3/g<CR><Down> :s/1/4/g<CR>ZZ
     - :%s/y1/abs(y1) : y1을 abs(y1)으로 변경
@@ -93,7 +93,8 @@
   
  - 풀이 영상
   
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76990397/144253097-a323cc34-4c6f-4ecf-be01-f57b410bf49d.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/76990397/144256986-70b53318-24c5-432e-8abf-b79e31254b20.gif)
+
   
  ---
  ### *Q5*
