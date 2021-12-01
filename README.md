@@ -22,9 +22,26 @@
 
 **[특정 문제 참가방법]**
 - vimgolf put [problem hashID]
+
+---
+
   
-  
-### Q1
+### *Q1*
 - Add quotes to ansible playbook
   - vimgolf put 5f0f5fbe280fbf000c233304
   - 최고점 : 8
+- Solution
+  - G W i " <End> " <Esc> ZZ
+    - G : 파일의 마지막 행으로 가기
+    - W : 오른쪽 한 단어의 끝 부분으로 커서 이동
+    - i : insert mode
+    - " : " 입력
+    - <end> : 맨 마지막으로 이동
+    - " : " 입력
+    - <ESC> : 종료
+    - ZZ : 변경사항 보관 후 vi 종료
+  
+  https://user-images.githubusercontent.com/76990397/144243987-ba54d416-2c3f-48db-a63d-654bcefe074c.mp4
+
+
+  
