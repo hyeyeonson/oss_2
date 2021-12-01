@@ -76,3 +76,17 @@
   
   ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76990397/144251480-329aad3c-e248-4f43-bddd-d01f06ac3cf9.gif)
 
+---
+### *Q4*
+- Problme : Plotting some variables in python
+  - vimgolf put 9v0060da5177000000000209
+  - 최고점 : 34
+- Solution
+  - 4G yw O // <Esc> p a TODO <Esc> 6G yw O // <Esc> p a TODO <Esc> ZZ
+    - 4G : 4번째 줄로 이동
+    - yw : 커서가 위치한 word 복사
+    - O : 커서 위에 행 삽입
+    - p : yank 되거나 삭제된 행 현재 행 위로 삽입
+    - a : 커서 오른쪽에 문자 삽입
+  
+ - 풀이 영상
