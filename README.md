@@ -93,7 +93,8 @@
   
  - 풀이 영상
   
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/76990397/144256986-70b53318-24c5-432e-8abf-b79e31254b20.gif)
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/76990397/144257550-1913f4e9-828a-4dbc-b899-20e7289e02cd.gif)
+
 
   
  ---
