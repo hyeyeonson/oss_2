@@ -27,7 +27,7 @@
 
   
 ### *Q1*
-- Add quotes to ansible playbook
+- Problme : Add quotes to ansible playbook
   - vimgolf put 5f0f5fbe280fbf000c233304
   - 최고점 : 8
 - Solution
@@ -47,7 +47,7 @@
 ---
   
 ### *Q2*
-- simple replacements
+- Problem : simple replacements
   - vimgolf put 603ba26a01b4d00009c10a49
   - 최고점 : 19
 - Solution
@@ -59,4 +59,20 @@
   
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/76990397/144246731-7c53f699-6f03-444b-941b-99aa80ac4741.gif)
 
+---
+### *Q3*
+- Problem : Satisfy the go linter
+  - vimgolf put 5f1063aa8361810006e73210
+  - 최고점 : 20
+- Solution
+  - 4G yw O // <Esc> p a TODO <Esc> 6G yw O // <Esc> p a TODO <Esc> ZZ
+    - 4G : 4번째 줄로 이동
+    - yw : 커서가 위치한 word 복사
+    - O : 커서 위에 행 삽입
+    - p : yank 되거나 삭제된 행 현재 행 위로 삽입
+    - a : 커서 오른쪽에 문자 삽입
   
+ - 풀이 영상
+  
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76990397/144251480-329aad3c-e248-4f43-bddd-d01f06ac3cf9.gif)
+
