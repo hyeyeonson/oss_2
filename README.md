@@ -82,11 +82,11 @@
   - vimgolf put 9v0060da5177000000000209
   - 최고점 : 34
 - Solution
-  - 4G yw O // <Esc> p a TODO <Esc> 6G yw O // <Esc> p a TODO <Esc> ZZ
-    - 4G : 4번째 줄로 이동
-    - yw : 커서가 위치한 word 복사
-    - O : 커서 위에 행 삽입
-    - p : yank 되거나 삭제된 행 현재 행 위로 삽입
-    - a : 커서 오른쪽에 문자 삽입
+  - :%s/y1/abs(y1) <CR> /k<CR>rg <Up>rr <Up>rb :s/1/2/g<CR><Down> :s/1/3/g<CR><Down> :s/1/4/g<CR>ZZ
+    - :%s/y1/abs(y1) : y1을 abs(y1)으로 변경
+    - /k<CR>rg <Up>rr <Up>rb : r을 각각 g r b로 변경
+    - :s/1/2/g<CR><Down> :s/1/3/g<CR><Down> :s/1/4/g<CR>ZZ : 1을 각각 2, 3, 4로 변경
   
  - 풀이 영상
+  
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76990397/144253097-a323cc34-4c6f-4ecf-be01-f57b410bf49d.gif)
