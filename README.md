@@ -66,7 +66,7 @@
 - Problem : Satisfy the go linter
   - vimgolf put 5f1063aa8361810006e73210
   - 최고점 : 20
-  - 내 최고점 : 
+  - 내 최고점 : 34
 - Solution
   - 4G yw O // <Esc> p a TODO <Esc> 6G yw O // <Esc> p a TODO <Esc> ZZ
     - 4G : 4번째 줄로 이동
@@ -77,7 +77,7 @@
   
  - 풀이 영상
   
-  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76990397/144251480-329aad3c-e248-4f43-bddd-d01f06ac3cf9.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/76990397/144256038-064549b7-f1f3-4ef2-b748-e98a478eadbd.gif)
 
 ---
 ### *Q4*
