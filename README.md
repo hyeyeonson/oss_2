@@ -30,6 +30,7 @@
 - Problme : Add quotes to ansible playbook
   - vimgolf put 5f0f5fbe280fbf000c233304
   - 최고점 : 8
+  - 내 최고점 : 9
 - Solution
   - G W i " <End> " <Esc> ZZ
     - G : 파일의 마지막 행으로 가기
@@ -50,6 +51,7 @@
 - Problem : simple replacements
   - vimgolf put 603ba26a01b4d00009c10a49
   - 최고점 : 19
+  - 내 최고점 : 27
 - Solution
   - <F12> :%s/sublime\|emacs/vim/g <CR>ZZ
     - <f12> : 녹화 시작
@@ -64,6 +66,7 @@
 - Problem : Satisfy the go linter
   - vimgolf put 5f1063aa8361810006e73210
   - 최고점 : 20
+  - 내 최고점 : 
 - Solution
   - 4G yw O // <Esc> p a TODO <Esc> 6G yw O // <Esc> p a TODO <Esc> ZZ
     - 4G : 4번째 줄로 이동
@@ -81,6 +84,7 @@
 - Problme : Plotting some variables in python
   - vimgolf put 9v0060da5177000000000209
   - 최고점 : 34
+  - 내 최고점 : 
 - Solution
   - :%s/y1/abs(y1) <CR> /k<CR>rg <Up>rr <Up>rb :s/1/2/g<CR><Down> :s/1/3/g<CR><Down> :s/1/4/g<CR>ZZ
     - :%s/y1/abs(y1) : y1을 abs(y1)으로 변경
@@ -96,6 +100,7 @@
 - Problme : Python dataclasses
   - vimgolf put 6013804df3308e0009368f1c
   - 최고점 : 19
+  - 내 최고점 : 29
 - Solution
   - 5G yw 10G f" p a,name,age,score <Esc> ZZ
     - 5G : 5행으로 이동
